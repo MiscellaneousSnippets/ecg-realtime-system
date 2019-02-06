@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Heart Companion</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_map_api_key">AIzaSyDA1SXZtIqtkSP-pUmvjF1gdlKjm9MXkxY</string>
+    <string name="signup">No account yet? Create one</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">Create Account</string>
+    <string name="login2">Already a member? Login</string>
+    <string name="length_error">Minimum lenght of password should be 6</string>
+    <string name="pass_req">Password is required</string>
+    <string name="email_req">Please enter a valid email</string>
+    <string name="no_match">Passwords don`t match</string>
+    <string name="confirmation">Confirm password is required</string>
+    <string name="registered">You are already registered</string>
+    <string name="input_email">Email is required</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="name">User Name</string>
+    <string name="creditcard">Credit_Card no.</string>
+    <string name="address">Address</string>
+    <string name="mobile">Mobile no.</string>
+    <string name="doctor">Doctor</string>
+    <string name="patient">Patient</string>
+    <string name="make_selection">Select Doctor/Patient account</string>
+
+</resources>

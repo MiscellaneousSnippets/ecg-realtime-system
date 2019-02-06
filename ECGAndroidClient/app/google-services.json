@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088708713853",
+    "firebase_url": "https://heartcompanion-244c6.firebaseio.com",
+    "project_id": "heartcompanion-244c6",
+    "storage_bucket": "heartcompanion-244c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088708713853:android:5792c27120c78c3f",
+        "android_client_info": {
+          "package_name": "com.example.abdulsalam.ecgandroidclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088708713853-rp10gn6442j0b6a3af7vuov05t1eb59g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdulsalam.ecgandroidclient",
+            "certificate_hash": "1fad15a9e4ca43cb8820acd0a960888898edbf32"
+          }
+        },
+        {
+          "client_id": "1088708713853-aq9fjdg4mdbalfeafqabm5hvgptde4qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTac92ZQKSiVKH-ns8546H5_L7wB8lVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088708713853-aq9fjdg4mdbalfeafqabm5hvgptde4qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
